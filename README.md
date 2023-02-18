@@ -3,5 +3,6 @@ Developed an HR analytics dashboard using a Kaggle sample dataset. The visualiz
 ## Screenshots
 
 ![App Screenshot](https://github.com/lokesh-guduru/HR-analytics-with-PowerBI/blob/main/Dashboard_sample_1.jpg)
+![App Screenshot](https://github.com/lokesh-guduru/HR-analytics-with-PowerBI/blob/main/Dashboard_sample_2.jpg)
 
 
